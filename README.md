@@ -9,10 +9,12 @@ Then, install required packages:
 ```r
 install.packages(c("shiny", "tidyverse", "tidytext", "DT", "hash", "gridExtra"))
 ```
+**Choose CRAN server closest to your location**
 
 ## Running the App
 You can run the app in a R terminal with:
 ```r
+library(shiny)
 runApp()
 ```
 
