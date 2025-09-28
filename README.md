@@ -13,12 +13,14 @@ install.packages(c("shiny", "tidyverse", "tidytext", "DT", "hash", "gridExtra"))
 ## Running the App
 You can run the app in a R terminal with:
 ```r
-shinyApp(ui = ui, server = server)
+runApp()
 ```
 
 Or alternatively:
 ```r
-runApp()
+library(shiny)
+source("app.R")
+shinyApp(ui = ui, server = server)
 ```
 
 ## About
