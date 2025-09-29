@@ -40,3 +40,13 @@ The core components of this app include:
 - Uses **tidyverse** (dplyr, ggplot2) for data manipulation and visualization.
 
 - Uses **tidytext** to tokenize lyrics and apply sentiment dictionaries.
+
+
+
+
+
+
+
+![alt text](what-app-looks-like.png "App User Interface")
+
+**App User Interface**
