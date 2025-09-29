@@ -33,7 +33,7 @@ The core components of this app include:
 
 - **Sentiment Lexicons**: Analysis powered by multiple lexicon datasets:
     - bing.csv (positive/negative classification)
-    - loughran.csv (financial sentiment categories)
+    - loughran.csv (multiple sentiment classifications including positive and negative)
     - afinn.csv (numeric sentiment scoring)
     - nrc.csv (eight basic emotions + positive/negative)
 
